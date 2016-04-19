@@ -93,10 +93,6 @@ app.get('/getSearchResult', function (req, res)
 /*********************************************************
 function name: multiple filter search function
 description: method to deal with the multiple filter search
-input: request and query keywords
-output: adv.html
-modify date: 04/17/2016
-author:xiaohan
 **********************************************************/
 app.get('/advanced', function (req, res) 
     {
