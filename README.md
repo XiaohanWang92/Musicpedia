@@ -24,4 +24,4 @@ Notice:
 
 4. I put a SQL sheet into repository, it contains all the SQL we designed to exploit the dataset and used them to provide contents to user. They are just samples and modified a little bit in application but the core ideas are not changed.
 
-5. I took snapshots of our webpage as well, you can check them out if you haven't set environment ready yet or just don't care to do that.
+5. I took snapshots of our webpage as well, you can check them out if you haven't set environment ready yet or just look around.
