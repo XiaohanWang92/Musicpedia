@@ -6,16 +6,16 @@ A Database Management System course project. In this project, we designed, store
 Dataset source:
   http://labrosa.ee.columbia.edu/millionsong/
 
-implementing environment:
+Environment:
   1. Mac OS X
-  2. Nodejs
-  More information:
+  2. Node.js
   http://www.oracle.com/technetwork/database/database-technologies/scripting-languages/node_js/index.html
   https://github.com/oracle/node-oracledb
   3. Nodeclipse:
   http://www.nodeclipse.org/
 
 Notice:
+
 1. To use University's Oracle db, you need to be a UF student and with corresponding several accounts.
 
 2. Outside the campus, a UF vpn is needed to get access into Oracle (a gatorLink account (UF account) is needed for VPN)
