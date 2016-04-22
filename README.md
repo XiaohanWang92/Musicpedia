@@ -9,9 +9,12 @@ Dataset source:
 Environment:
   1. Mac OS X
   2. Node.js
+  
   http://www.oracle.com/technetwork/database/database-technologies/scripting-languages/node_js/index.html
   https://github.com/oracle/node-oracledb
+
   3. Nodeclipse:
+  
   http://www.nodeclipse.org/
 
 Notice:
